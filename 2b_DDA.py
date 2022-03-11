@@ -1,6 +1,6 @@
-# Moch Yogi Firmansyah
-# 20051397044
-# 2020B
+# Ica Nissolekha 
+# 20051397064
+# MI 2020B
 
 import matplotlib.pyplot as plt
 
